@@ -1,0 +1,1 @@
+open -a "Realm Studio" /Users/joaodematejr/Library/Developer/CoreSimulator/Devices/3ED30E69-8830-4601-B256-197D4999B6E5/data/Containers/Data/Application/92062CD5-CC8D-46E5-857F-9A563D3E7FAA/Documents/default.realm

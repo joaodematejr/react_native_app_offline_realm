@@ -30,3 +30,15 @@ export const Star = styled.View`
 export const StartCount = styled.Text`
   margin-left: 5px;
 `;
+
+export const Refresh = styled.TouchableOpacity`
+  margin-top: 20px;
+  flex-direction: row;
+`;
+
+export const RefreshText = styled.Text`
+  font-size: 14px;
+  font-weight: bold;
+  color: #0d47a1;
+  margin-left: 5px;
+`;
